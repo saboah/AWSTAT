@@ -1,0 +1,2 @@
+# AWSTAT
+Just another repository
